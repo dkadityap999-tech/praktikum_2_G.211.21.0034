@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Landmark</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Data Landmark</h2>
+
+<table>
+    <tr>
+        <th>KOTA</th>
+        <th>LANDMARK</th>
+        <th>TARIF</th>
+    </tr>
+    <tr>
+        <td>SEMARANG</td>
+        <td>LAWANG SEWU</td>
+        <td>20000</td>
+    </tr>
+    <tr>
+        <td>YOGYAKARTA</td>
+        <td>PRAMBANAN</td>
+        <td>35000</td>
+    </tr>
+    <tr>
+        <td>MAGELANG</td>
+        <td>BOROBUDUR</td>
+        <td>45000</td>
+    </tr>
+    <tr>
+        <td>SURAKARTA</td>
+        <td>PGS</td>
+        <td>GRATIS</td>
+    </tr>
+</table>
+
+</body>
+</html>
